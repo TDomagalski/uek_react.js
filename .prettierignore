@@ -1,0 +1,9 @@
+# Ignoruj artefakty procesów budowania i zależności
+build
+dist
+coverage
+node_modules
+
+# Ignoruj pliki generowane lub specyficzne dla środowiska
+.env
+package-lock.json
