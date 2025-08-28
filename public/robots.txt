@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://uek-react-js.vercel.app/sitemap.xml
